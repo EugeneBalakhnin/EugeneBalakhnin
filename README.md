@@ -21,10 +21,16 @@
   </div>
   
   <div align="center">
-    <img src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" width="200" height="100"/>
-    <img src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" width="200" height="100"/>
-    <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="200" height="100"/>
-    <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="200" height="100"/>
+    <img src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" width="1000" height="500"/>
+  </div>  
+  <div align="center">
+    <img src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" width="1000" height="500"/>
+  </div>
+    <div align="center">
+    <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="1000" height="500"/>
+  </div>
+    <div align="center">
+    <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="1000" height="500"/>
   </div>
   
   

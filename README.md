@@ -11,8 +11,10 @@
   </p>
   <div>
     <a>
-      <img src="https://img.shields.io/github/watchers/itsZENR/itsZENR?style=social&color=blue" alt=""/>
-      <h1>
+     <img src="https://img.shields.io/github/watchers/itsZENR/itsZENR?style=social&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=itsZENR&style=flat-square&color=blue" alt=""/>
+      
+     <h1>
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
         HELLO WORLD!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>

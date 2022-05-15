@@ -66,6 +66,9 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZENR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+
+  
+
   
 
 <!--   <div align="center">
@@ -86,3 +89,11 @@
   
   
 </div>
+
+  ---
+
+  ### :writing_hand: Blog Posts :
+  
+  <!-- BLOG-POST-LIST:START -->
+
+  <!-- BLOG-POST-LIST:END -->

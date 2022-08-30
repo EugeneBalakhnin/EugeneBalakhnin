@@ -43,14 +43,8 @@
   
    <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="React" width="80" height="80"/>&nbsp;
-  </div>
-  
-  ---
-
-  ### :wrench: Languages and Tools used in the Work :
-  
-  
-   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="React" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="React" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="React" width="80" height="80"/>&nbsp;
   </div>
   

@@ -48,6 +48,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" alt="Opencv" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/itsZENR/itsZENR/blob/main/scipy.svg" title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
 
   </div>
   

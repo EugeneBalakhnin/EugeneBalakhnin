@@ -6,6 +6,8 @@
         HELLO WORLD!
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
    </h1> 
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-ZENR-blue?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/oomoo/posts/)
   </div>
   
   <!--### 👨‍💻: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
@@ -17,11 +19,10 @@
   - :seedling: Exploring Technical Content Writing.
 
   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZENR-blue?style=flat&logo=Habr&logoColor=white)](your-linkedin-url)
-  -->
   
-
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZENR-blue?style=flat&logo=Habr&logoColor=white)](your-linkedin-url)
+-->
+  
   ---
 
   ### :hammer_and_wrench: Languages and Tools used in the Work :

@@ -7,7 +7,7 @@
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
    </h1> 
   
-  [![Linkedin Badge](https://img.shields.io/badge/-ZENR-blue?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/oomoo/posts/)
+  [![Linkedin Badge](https://img.shields.io/badge/-My_HABR-blue?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/oomoo/posts/)
   </div>
   
   <!--### 👨‍💻: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :

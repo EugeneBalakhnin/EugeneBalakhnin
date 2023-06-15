@@ -41,14 +41,14 @@
   
   ---
 
-  ### :fire: My Stats :fire:
+<!--   ### :fire: My Stats :fire: -->
   
 <!--   http://github-readme-streak-stats.herokuapp.com/demo/?user=itsZENR&theme=blueberry_duo&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background&fire=%23DD8610C6 
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZENR&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&fire=DD8E15E2)](https://git.io/streak-stats)
   -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZENR&layout=default&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZENR&layout=default&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZENR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
